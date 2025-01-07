@@ -13,6 +13,9 @@
           />
 
 #
+### 👩🏻‍🎓Qualificações
+-  Técnica em Assistente de Admnistração de Banco de Dados
+#
 ### 📊 Estatísticas
 <p>
   <img 
