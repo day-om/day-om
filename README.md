@@ -1,16 +1,40 @@
-## Hi there 👋
+ # 👩🏻‍💻Dayanne Magalhães 
 
-<!--
-**day-om/day-om** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✏️ Estudante de Desenvolvimento de Sistemas 
 
-Here are some ideas to get you started:
+📍 Teresina - Piauí - Brasil 
+#
+### 💻 Linguagens 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline;">
+          <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+          /> 
+          <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
+          />
+
+#
+### 📊 Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=day-om&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-om&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+          
+
+          
+
+
+
