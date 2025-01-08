@@ -28,8 +28,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=day-om&show_icons=true" />
 </picture>
-          
-
+<div style="display: flex; flex-direction: row; justify-content: center;">     
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-om&theme=dark&show_icons=true&theme=dark&hide_border=false&layout=compact" alt="day-om Top Languages">
+</div>
           
 
 
