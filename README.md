@@ -18,8 +18,8 @@
 #
 ### 📊 Estatísticas
 <div style="display: flex; flex-direction: row; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=day-om&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="davi-rdgr's Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-om&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="davi-rdgr's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=day-om&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="day-om Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-om&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="day-om Top Languages">
 </div>
 
           
