@@ -17,23 +17,10 @@
 -  Técnica em Assistente de Admnistração de Banco de Dados
 #
 ### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=day-om&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-om&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div style="display: flex; flex-direction: row; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=day-om&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="davi-rdgr's Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-om&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="davi-rdgr's Top Languages">
+</div>
 
           
 
