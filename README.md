@@ -4,13 +4,18 @@
 
 📍 Teresina - Piauí - Brasil 
 #
-### 💻 Linguagens 
+### 💻 Linguagens e Tecnologias
 
 <div style="display: inline;">
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
           /> 
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
           />
+          <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+          />
+          <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+          
+          
 
 #
 ### 👩🏻‍🎓Qualificações
