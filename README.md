@@ -32,14 +32,7 @@ Atualmente **em formação técnica em Desenvolvimento de Sistemas e Gestão de 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white)
 
----
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=day-om&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-om&layout=compact&theme=dracula&hide=html,css" alt="Linguagens Mais Usadas" height="175"/>
-</p>
 
 ---
 
