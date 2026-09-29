@@ -4,7 +4,7 @@
 
 Sou profissional de TI com atuação focada em **análise de incidentes, suporte, gestão de operações de TI e análise de dados**. Minha trajetória começou no suporte técnico, onde aprimorei competências em diagnóstico, resolução de problemas e comunicação. Meu papel atualmente é junto ao gerenciamento do ciclo de vida de incidentes, monitoramento de SLAs e busca por melhoria contínua de processos.
 
-Atualmente **em formação técnica em Desenvolvimento de Sistemas e Gestão de Dados**, busco aplicar conhecimentos em **Análise de Dados com Python** para unir inteligência de dados e eficiência na otimização de fluxos operacionais de TI.
+Atualmente **em formação técnica em Desenvolvimento de Sistemas e graduação em Gestão de Dados**, busco aplicar conhecimentos em **Análise de Dados com Python** para unir inteligência de dados e eficiência na otimização de fluxos operacionais de TI.
 
 ---
 
@@ -28,10 +28,8 @@ Atualmente **em formação técnica em Desenvolvimento de Sistemas e Gestão de 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white)
-
 
 
 ---
