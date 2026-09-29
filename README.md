@@ -46,5 +46,5 @@ Atualmente **em formação técnica em Desenvolvimento de Sistemas e Gestão de 
 
 ### 📫 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dayomagalhaes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayomagalhaes)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayanneomagalhaes@gmail.com)
