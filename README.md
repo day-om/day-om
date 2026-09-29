@@ -2,7 +2,7 @@
 
 ### 💻 Analista de Incidentes Pleno I | ITIL & ITSM | Data Analysis with Python
 
-Sou profissional de TI com atuação focada em **análise de incidentes, suporte, gestão de operações de TI e análise de dados**. Minha trajetória começou no suporte técnico, onde aprimorei competências em diagnóstico, resolução de problemas e comunicação. Hoje, atuo no gerenciamento do ciclo de vida de incidentes, monitoramento de SLAs e busca por melhoria contínua de processos.
+Sou profissional de TI com atuação focada em **análise de incidentes, suporte, gestão de operações de TI e análise de dados**. Minha trajetória começou no suporte técnico, onde aprimorei competências em diagnóstico, resolução de problemas e comunicação. Meu papel atualmente é junto ao gerenciamento do ciclo de vida de incidentes, monitoramento de SLAs e busca por melhoria contínua de processos.
 
 Atualmente **em formação técnica em Desenvolvimento de Sistemas e Gestão de Dados**, busco aplicar conhecimentos em **Análise de Dados com Python** para unir inteligência de dados e eficiência na otimização de fluxos operacionais de TI.
 
