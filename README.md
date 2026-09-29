@@ -1,42 +1,57 @@
- # 👩🏻‍💻Dayanne Magalhães 
+# Hi there, I'm Dayanne Oliveira! 👋
 
-**`✏️ Estudante de Desenvolvimento de Sistemas`** 
+### 💻 Analista de Incidentes Pleno I | ITIL & ITSM | Data Analysis with Python
 
-📍 Teresina - Piauí - Brasil 
-#
-### 💻 Linguagens e Tecnologias
+Sou profissional de TI com atuação focada em **análise de incidentes, suporte, gestão de operações de TI e análise de dados**. Minha trajetória começou no suporte técnico, onde aprimorei competências em diagnóstico, resolução de problemas e comunicação. Hoje, atuo no gerenciamento do ciclo de vida de incidentes, monitoramento de SLAs e busca por melhoria contínua de processos.
 
-<div style="display: inline;">
-          <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-          /> 
-          <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
-          />
-          <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-          />
-          <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-          
-          
+Além disso, tenho formação técnica em **Desenvolvimento de Sistemas e Gestão de Dados**, com especialização em **Análise de Dados com Python**, aplicando inteligência de dados na otimização de fluxos operacionais de TI.
 
-#
-### 👩🏻‍🎓Qualificações
--  Técnica em Assistente de Admnistração de Banco de Dados
-#
-### 📊 Estatísticas
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=day-om&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=day-om&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=day-om&show_icons=true" />
-</picture>
-<div style="display: flex; flex-direction: row; justify-content: center;">     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-om&theme=dark&show_icons=true&theme=dark&hide_border=false&layout=compact" alt="day-om Top Languages">
-</div>
-          
+---
 
+### 🚀 O que estou fazendo no momento:
+- 🛠️ **Atuação profissional:** Analista de Incidentes Pleno I na **ready.ti**, atuando em classificação, priorização, investigação de causa raiz (RCA) e relatórios de indicadores.
+- 📊 **Análise & Dados:** Aplicando Python (Pandas, NumPy), SQL e estatística na extração e visualização de dados.
+- 🤝 **Comunidade & Voluntariado:** Treinadora no **Django Girls** e entusiasta das comunidades Python (PyLadies Teresina, Python Nordeste).
 
+---
 
+### 🛠️ Tecnologias e Ferramentas
+
+#### **Operações de TI & ITSM**
+![ITSM](https://img.shields.io/badge/ITSM%20%26%20ITIL-0052CC?style=for-the-badge&logo=opsgenie&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-000000?style=for-the-badge&logo=glpi&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes%20%26%20Infra-412991?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware%20%26%20Suporte-4D4D4D?style=for-the-badge)
+
+#### **Análise de Dados & Desenvolvimento**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white)
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=day-om&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-om&layout=compact&theme=dracula&hide=html,css" alt="Linguagens Mais Usadas" height="175"/>
+</p>
+
+---
+
+### 🎓 Certificações & Comunidade Highlights
+- 📜 **Análise de Dados com Python** — `{reprograma}` (2026)
+- 📜 **Treinadora Django Girls** — PyLadies Teresina (2025)
+- 📜 **Formação Data Analysis com Google Sheets** — Alura (2025)
+- 📜 **Assistente de Administração de Banco de Dados** — Senac RS (2024)
+
+---
+
+### 📫 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dayomagalhaes)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayanneomagalhaes@gmail.com)
