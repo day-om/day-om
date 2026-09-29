@@ -4,13 +4,11 @@
 
 Sou profissional de TI com atuação focada em **análise de incidentes, suporte, gestão de operações de TI e análise de dados**. Minha trajetória começou no suporte técnico, onde aprimorei competências em diagnóstico, resolução de problemas e comunicação. Meu papel atualmente é junto ao gerenciamento do ciclo de vida de incidentes, monitoramento de SLAs e busca por melhoria contínua de processos.
 
-Atualmente **em formação técnica em Desenvolvimento de Sistemas e graduação em Gestão de Dados**, busco aplicar conhecimentos em **Análise de Dados com Python** para unir inteligência de dados e eficiência na otimização de fluxos operacionais de TI.
-
 ---
 
 ### 🚀 O que estou fazendo no momento:
 - 🛠️ **Atuação profissional:** Analista de Incidentes Pleno I na **ready.ti**, atuando em classificação, priorização, investigação de causa raiz (RCA) e relatórios de indicadores.
-- 📊 **Análise & Dados:** Aplicando Python (Pandas, NumPy), SQL e estatística na extração e visualização de dados.
+- 📊 **Estudante de Análise & Dados:** Aplicando Python (Pandas, NumPy), SQL e estatística na extração e visualização de dados.
 - 🤝 **Comunidade & Voluntariado:** Treinadora no **Django Girls** e entusiasta das comunidades Python (PyLadies Teresina, Python Nordeste).
 
 ---
