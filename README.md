@@ -4,7 +4,7 @@
 
 Sou profissional de TI com atuação focada em **análise de incidentes, suporte, gestão de operações de TI e análise de dados**. Minha trajetória começou no suporte técnico, onde aprimorei competências em diagnóstico, resolução de problemas e comunicação. Hoje, atuo no gerenciamento do ciclo de vida de incidentes, monitoramento de SLAs e busca por melhoria contínua de processos.
 
-Além disso, tenho formação técnica em **Desenvolvimento de Sistemas e Gestão de Dados**, com especialização em **Análise de Dados com Python**, aplicando inteligência de dados na otimização de fluxos operacionais de TI.
+Atualmente **em formação técnica em Desenvolvimento de Sistemas e Gestão de Dados**, busco aplicar conhecimentos em **Análise de Dados com Python** para unir inteligência de dados e eficiência na otimização de fluxos operacionais de TI.
 
 ---
 
